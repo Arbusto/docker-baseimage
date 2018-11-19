@@ -1,1 +1,4 @@
 
+DOCKERFILE=Dockerfile.alpine
+BASEIMAGE=armhf/alpine
+S6_OVERLAY_ARCH=armhf
